@@ -1,0 +1,13 @@
+C:\Users\Hussain\source\repos\spyware,dll\spyware,dll\bin\Debug\spyware,dll.exe.config
+C:\Users\Hussain\source\repos\spyware,dll\spyware,dll\bin\Debug\spyware,dll.exe
+C:\Users\Hussain\source\repos\spyware,dll\spyware,dll\bin\Debug\spyware,dll.pdb
+C:\Users\Hussain\source\repos\spyware,dll\spyware,dll\bin\Debug\Guna.UI2.dll
+C:\Users\Hussain\source\repos\spyware,dll\spyware,dll\obj\Debug\spyware,dll.csproj.AssemblyReference.cache
+C:\Users\Hussain\source\repos\spyware,dll\spyware,dll\obj\Debug\spyware_dll.Form1.resources
+C:\Users\Hussain\source\repos\spyware,dll\spyware,dll\obj\Debug\spyware_dll.Properties.Resources.resources
+C:\Users\Hussain\source\repos\spyware,dll\spyware,dll\obj\Debug\spyware,dll.csproj.GenerateResource.cache
+C:\Users\Hussain\source\repos\spyware,dll\spyware,dll\obj\Debug\spyware,dll.csproj.CoreCompileInputs.cache
+C:\Users\Hussain\source\repos\spyware,dll\spyware,dll\obj\Debug\spyware,.B24F9FBC.Up2Date
+C:\Users\Hussain\source\repos\spyware,dll\spyware,dll\obj\Debug\spyware,dll.exe
+C:\Users\Hussain\source\repos\spyware,dll\spyware,dll\obj\Debug\spyware,dll.pdb
+C:\Users\Hussain\source\repos\spyware,dll\spyware,dll\obj\Debug\spyware_dll.Form2.resources
